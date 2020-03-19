@@ -55,7 +55,7 @@ LDAPFragger -u <username> -p <password> -d <domain FQDN>
 ```
 
 
-LDAPS can be used with the `--LDAPS` flag, however, regular LDAP traffic is encrypted as well. Please do note that the default payload will get caught by most AVs.
+LDAPS can be used with the `--LDAPS` flag, however, regular LDAP traffic is encrypted as well. Please do note that the default Cobalt Strike payload will get caught by most AVs.
 
 
 
