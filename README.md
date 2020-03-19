@@ -2,7 +2,7 @@
 
 LDAPFragger is a Command and Control tool that enables attackers to route Cobalt Strike beacon data over LDAP using user attributes.
 
-For background information, read the release blog: http://blog.fox-it.com/2020/03/19/ldapfragger-bypassing-network-restrictions-using-ldap-attributes
+For background information, read the release blog: http://blog.fox-it.com/2020/03/19/ldapfragger-command-and-control-over-ldap-attributes
 
 
 ## Dependencies and installation
