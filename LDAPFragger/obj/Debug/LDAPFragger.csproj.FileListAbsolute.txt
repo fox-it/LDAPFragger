@@ -1,0 +1,9 @@
+C:\Temp\2\LDAPFragger\bin\Debug\LDAPFragger.exe.config
+C:\Temp\2\LDAPFragger\bin\Debug\LDAPFragger.exe
+C:\Temp\2\LDAPFragger\bin\Debug\LDAPFragger.pdb
+C:\Temp\2\LDAPFragger\obj\Debug\LDAPFragger.csprojResolveAssemblyReference.cache
+C:\Temp\2\LDAPFragger\obj\Debug\LDAPFragger.Properties.Resources.resources
+C:\Temp\2\LDAPFragger\obj\Debug\LDAPFragger.csproj.GenerateResource.Cache
+C:\Temp\2\LDAPFragger\obj\Debug\LDAPFragger.csproj.CoreCompileInputs.cache
+C:\Temp\2\LDAPFragger\obj\Debug\LDAPFragger.exe
+C:\Temp\2\LDAPFragger\obj\Debug\LDAPFragger.pdb
